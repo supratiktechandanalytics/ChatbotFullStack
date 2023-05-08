@@ -4,9 +4,9 @@ Chat anything with a bot on a IOS 10 texting like interface. This application ha
 
 The chatbot was built using <a href='https://github.com/gunthercox/ChatterBot'> ChatterBot. </a><br>
 
-Developed by <strong> Vaibhav Malhotra </strong>
+Developed by <strong> Supratik Sarkar </strong>
 
-<strong>Email: </strong> vbvmalhotra@gmail.com <br/>
+<strong>Email: </strong> supratikssarkar@gmail.com <br/>
 
 <h2>Run the project</h2>
 <strong>Prerequisite: Make sure that you have python 3.6 with pip and Node JS with NPM installed in your system.
