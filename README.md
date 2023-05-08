@@ -25,5 +25,3 @@ The following steps will let you download and run the project locally:
  <h2>Screenshot</h2>
 <img src="screenshot.png"/>
 
- <h2>Live Demo</h2>
-If you dont want to go through the hassle of running it locally, you can also access and play around with the app <a href='https://chatterbot-client.herokuapp.com/'>here</a>
